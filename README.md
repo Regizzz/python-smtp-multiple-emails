@@ -10,7 +10,7 @@ This script is for sending emails to multiple recipents.
 ## Step 1
 Replace `smtp_server_address_here` to your smtp-server address in `smtpshit.py` file
 
-```smtp_server = "smtp_server_address_here"````
+```smtp_server = "smtp_server_address_here"```
 
 ## Step 2
 Replace `your_email_here` to your  sender-email address in `smtpshit.py` file.
