@@ -39,4 +39,6 @@ Script takes first column as a email address then sends a message which is made 
 
 ##
 Recipent will recieve email like this
+
+
 ```username password```
