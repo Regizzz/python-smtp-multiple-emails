@@ -33,7 +33,7 @@ Run the script
 ```python smtpshit.py```
 
 ##
-Script takes first column as a email address then sends a message which is made up from second and third columns.
+Script takes first column as an email address then sends a message which is made up from second and third columns.
 
 ```message = "username password"```
 
